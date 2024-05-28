@@ -1,4 +1,4 @@
-# RFM analysis in Python using access to BigQuery table and prompt user for time range selection for analysis
+# Recency Frequency and Monetary analysis in Python using access to BigQuery and prompt user for time range selection
 
 ## Project Description:
 
