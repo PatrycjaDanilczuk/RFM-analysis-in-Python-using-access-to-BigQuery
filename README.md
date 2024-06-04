@@ -1,6 +1,6 @@
 # Recency Frequency and Monetary analysis in Python using access to BigQuery and prompt user for time range selection
 
-## Project Description:
+## Project Description
 
 Create reusable Python code to provide Segmentation and RFM analysis of the “rfm” data table hosted in BigQuery project.
 
