@@ -18,6 +18,24 @@ For the selected date range, the code provides:
   
   •	data visualizations, allowing the user to make own insights
 
+## About the dataset
+
+The rfm table is hosted in BigQuery project. It contains information on customer transactions, including their ID, purchase dates, quantity, and monetary value. Segment customers on RFM scores and provide insights for the marketing department.
+
+**rfm schema**
+
+| Field name | Type | Mode |
+|---------------|-----------|-----------|
+| InvoiceNo | STRING | NULLABLE |
+| StockCode | STRING | NULLABLE |
+| Description | STRING | NULLABLE |
+| Quantity | INTEGER | NULLABLE |
+| InvoiceDate | TIMESTAMP | NULLABLE |	
+| UnitPrice | FLOAT | NULLABLE |
+| CustomerID | INTEGER | NULLABLE |
+| Country | STRING | NULLABLE	|
+
+
 ## Steps applied
 
 Step 1. Importing data from Big Query to Google Colab
