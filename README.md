@@ -18,9 +18,33 @@ For the selected date range, the code provides:
   
   •	data visualizations, allowing the user to make own insights
 
+## About Segmentation and RFM analysis
+
+Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately. 
+Segmentation allows marketers to better tailor their marketing efforts to various audience subsets. Those efforts can relate to both communications and product development. 
+Specifically, segmentation helps a company:
+
+- Create and communicate targeted marketing messages that will resonate with specific groups of customers, but not with others (who will receive messages tailored to their needs and interests, instead)
+
+- Select the best communication channel for the segment, which might be email, social media posts, radio advertising, or another approach, depending on the segment
+  
+- Identify ways to improve products or new product or service opportunities
+
+- Establish better customer relationships
+  
+- Test pricing options
+  
+- Focus on the most profitable customers
+  
+- Improve customer service
+  
+- Upsell and cross-sell other products and services
+
 ## About the dataset
 
-The rfm table is hosted in BigQuery project. It contains information on customer transactions, including their ID, purchase dates, quantity, and monetary value. Segment customers on RFM scores and provide insights for the marketing department.
+The rfm table is hosted in BigQuery project. It contains information on customer transactions, including their ID, purchase dates, quantity, and monetary value.
+
+The dataset contains 541.909 rows and 8 columns.
 
 **rfm schema**
 
