@@ -38,7 +38,18 @@ Specifically, segmentation helps a company:
   
 - Improve customer service
   
-- Upsell and cross-sell other products and services
+- Upsell and cross-sell other products and services.
+
+RFM Analysis examine and group customers according to they purchase recency (R), frequency (F) and monetary value (M). It is common for understanding customer purchase behavior, especially in retail industry.
+
+Recency = time in units (days/months/years) since the most recent transaction of the customer (usually calculated in days)
+
+Frequency = total number of purchase transactions in the period examined (alternatively average number of transactions)
+
+Monetary = total value of the purchases in the period examined or average value per time unit
+
+The R, F, M indicators are typically calculated at a customer level of available transactional data and “translated” into scores (R score, M score, F score) using quantiles or customary cut-offs to get final RFM score. For example the customer with the highest values of recency, frequency and monetary gets RFM score of 444 and the customer with the lowest values of recency, frequency and monetary gets RFM score of 111.
+
 
 ## About the dataset
 
